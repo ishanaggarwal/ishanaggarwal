@@ -15,3 +15,7 @@ Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sci
 </ul>
 
 <br/>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/" target="blank" style="text-decoration: none;"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+</p>
