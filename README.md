@@ -8,7 +8,7 @@ Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sci
 <li>Research Assistant(Working on High level Research Projects associated with High level clientele) and Graduate Teaching Assistant(engaging with students to foster understanding and growth) 🎓📝</li>
 <li>Former Software Engineer at <a href="https://www.bankofamerica.com/">Bank of America</a>, delivering impactful software solutions ✨</li>
 <li>Eager to expand skills, leverage experiences, and learn from industry professionals 🌱</li>
-<li>Actively seeking SDE, TPM, Cloud internship/co-op opportunities for Fall 2024/Winter 2025 🌤️</li>
+<li>Actively seeking SDE, PM, Cloud internship/co-op opportunities for Fall 2024/Winter 2025 🌤️</li>
 <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal/</a>🤝</li>
 <li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
 <li>Feel free to reach out if you have suitable roles or insights to share 📬🤝</li>
