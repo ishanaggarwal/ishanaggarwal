@@ -13,6 +13,7 @@
  <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal/</a>🤝</li>
 <li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
  <li>My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
+ <li align="center">🌱</li>
 <li align="center">Let's Connect for Suitable roles or Insights to share 📬🤝</li>
 </ul>
 
