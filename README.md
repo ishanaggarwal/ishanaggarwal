@@ -7,12 +7,12 @@
  <li>Proficient with a solid grasp of Python, well-versed in Object-Oriented concepts, Databases, Data Structures, and Algorithms 🚀</li>
 <li>Research Assistant(Working on High level Research Projects associated with High level clientele) and Graduate Teaching Assistant(engaging with students to foster understanding and growth) 🎓📝</li>
 <li>Former Software Engineer at <a href="https://www.bankofamerica.com/">Bank of America</a>, delivering impactful software solutions ✨</li>
-<li>Eager to expand skills, leverage experiences, and learn from industry professionals 🌱</li>
+<li>Eager to expand skills, leverage experiences, and learn from industry professionals 🚀</li>
 <li>Actively seeking AI, SDE, PM, Cloud internship/Fulltime opportunities for 2025/2026 🌤️</li>
-<li align="center">🚀</li>
- <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
-<li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
- <li>My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
+<li align="center">🌱</li>
+ <li align="center">Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
+<li align="center">Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
+ <li align="center">My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
  <li align="center">🌱</li>
 <li align="center">Let's Connect for Suitable roles or Insights to share 📬🤝</li>
 </ul>
