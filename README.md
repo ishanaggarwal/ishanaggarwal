@@ -8,7 +8,7 @@
 <li>Research Assistant(Working on High level Research Projects associated with High level clientele) and Graduate Teaching Assistant(engaging with students to foster understanding and growth) 🎓📝</li>
 <li>Former Software Engineer at <a href="https://www.bankofamerica.com/">Bank of America</a>, delivering impactful software solutions ✨</li>
 <li>Eager to expand skills, leverage experiences, and learn from industry professionals 🌱</li>
-<li>Actively seeking AI, SDE, PM, Cloud internship/co-op opportunities for Summer 2025 🌤️</li>
+<li>Actively seeking AI, SDE, PM, Cloud internship/Fulltime opportunities for 2025/2026 🌤️</li>
 <li align="center">🚀</li>
  <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
 <li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
