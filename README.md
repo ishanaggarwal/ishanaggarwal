@@ -1,4 +1,4 @@
-<h2 align="">Hi 👋, I'm Ishan</h2>
+<h2 align="center">Hi 👋, I'm Ishan</h2>
 
 <ul>
 <li>Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sciences, <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston 📚</li>
