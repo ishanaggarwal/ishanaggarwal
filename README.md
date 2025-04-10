@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ishan</h2>
-<h5>
+<h4>
 <ul>
 <li>Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sciences, <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston 📚</li>
 <li>Passionate about software development, problem-solving, and quick adaptation to new technologies 💻🔧</li>
@@ -15,7 +15,7 @@
  <li align="center">My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
  <li align="center">🌱</li>
 </ul>
-</h5>
+</h4>
 <br/>
 <p align="center">Let's Connect for Suitable Roles or Insights to Share 📬🤝</p>
 <p align="center">
