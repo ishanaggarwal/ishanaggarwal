@@ -3,7 +3,7 @@
 <ul>
 <li>Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sciences, <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston 📚</li>
 <li>Passionate about software development, problem-solving, and quick adaptation to new technologies 💻🔧</li>
-
+<li>🌱</li>
  <li>Proficient with a solid grasp of Python, well-versed in Object-Oriented concepts, Databases, Data Structures, and Algorithms 🚀</li>
 <li>Research Assistant(Working on High level Research Projects associated with High level clientele) and Graduate Teaching Assistant(engaging with students to foster understanding and growth) 🎓📝</li>
 <li>Former Software Engineer at <a href="https://www.bankofamerica.com/">Bank of America</a>, delivering impactful software solutions ✨</li>
