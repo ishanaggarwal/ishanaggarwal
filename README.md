@@ -11,6 +11,7 @@ Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sci
 <li>Actively seeking AI, SDE, PM, Cloud internship/co-op opportunities for Summer 2025 🌤️</li>
 <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal/</a>🤝</li>
 <li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
+ <li>My portfolio:<a href="https://ishanaggarwal.my.canva.site/"></a></li>
 <li>Feel free to reach out if you have suitable roles or insights to share 📬🤝</li>
 </ul>
 
