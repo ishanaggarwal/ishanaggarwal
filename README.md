@@ -10,9 +10,9 @@
 <li>Eager to expand skills, leverage experiences, and learn from industry professionals 🚀</li>
 <li>Actively seeking AI, SDE, PM, Cloud internship/Fulltime opportunities for 2025/2026 🌤️</li>
 <li align="center">🌱</li>
- <li align="center">LinkedIn: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
-<li align="center">Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
- <li align="center">My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
+ <li>LinkedIn: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
+<li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
+ <li>My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
  <li align="center">🌱</li>
 </ul>
 </h4>
