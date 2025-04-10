@@ -10,7 +10,7 @@
 <li>Eager to expand skills, leverage experiences, and learn from industry professionals 🌱</li>
 <li>Actively seeking AI, SDE, PM, Cloud internship/co-op opportunities for Summer 2025 🌤️</li>
 <li>🚀</li>
- <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal/</a>🤝</li>
+ <li>Let's connect: <a href="https://www.linkedin.com/in/ishan-aggarwal-30a11216b/"> https://www.linkedin.com/ishanaggarwal1/</a>🤝</li>
 <li>Email: <a href="mailto:ishanaggarwal7775@gmail.com">ishanaggarwal7775@gmail.com</a> ✉️</li>
  <li>My portfolio:<a href="https://ishanaggarwal.my.canva.site/">https://ishanaggarwal_Portfolio/</a></li>
  <li align="center">🌱</li>
