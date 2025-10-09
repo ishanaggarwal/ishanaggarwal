@@ -7,15 +7,15 @@ United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com
 <!-- Social Icons -->
 <p align="center">
   <a href="https://leetcode.com/u/danielatlas/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" alt="LeetCode" width="32" height="32" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="36" height="36"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ishanaggarwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="36" height="36"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ishanaggarwal1/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="36" height="36"/>
   </a>
 </p>
 
