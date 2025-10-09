@@ -3,7 +3,21 @@
 # ISHAN AGGARWAL  
 
 United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com) • +1 (857) 991-6379  
-📘 [LeetCode](https://leetcode.com/ishanaggarwal999) • 🐙 [GitHub](https://github.com/ishanaggarwal) • 💼 [LinkedIn](https://www.linkedin.com/in/ishanaggarwal1)
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://leetcode.com/u/danielatlas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" alt="LeetCode" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ishanaggarwal" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishanaggarwal1/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+  </a>
+</p>
 
 </div>
 
