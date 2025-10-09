@@ -17,7 +17,6 @@ Want the short version? Scales, performance, and intelligence — in that order.
 
 Contact & Quick Links
 - ✉️ Email: [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com)
-- 📞 Phone: +1 (857) 991-6379
 - 🐙 GitHub: [github.com/ishanaggarwal](https://github.com/ishanaggarwal)
 - 📈 LeetCode: [leetcode.com/ishanaggarwal999](https://leetcode.com/ishanaggarwal999)
 - 💼 LinkedIn: [linkedin.com/in/ishanaggarwal](https://www.linkedin.com/in/ishanaggarwal1)
