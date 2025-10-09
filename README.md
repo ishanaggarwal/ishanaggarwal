@@ -16,8 +16,7 @@ Contact & Quick Links
 - 📞 Phone: +1 (857) 991-6379
 - 🐙 GitHub: [github.com/ishanaggarwal](https://github.com/ishanaggarwal)
 - 📈 LeetCode: [leetcode.com/ishanaggarwal999](https://leetcode.com/ishanaggarwal999)
-- 💼 LinkedIn: [linkedin.com/in/ishanaggarwal](https://www.linkedin.com/in/ishanaggarwal) (replace with your custom URL if different)
-- 🛂 Visa: H-1B — Transfer-Eligible (No sponsorship required)
+- 💼 LinkedIn: [linkedin.com/in/ishanaggarwal](https://www.linkedin.com/in/ishanaggarwal1)
 
 ---
 
