@@ -1,7 +1,11 @@
-# ISHAN AGGARWAL
+<div align="center">
 
-United States • ishanaggarwal999@gmail.com • +1 (857) 991-6379  
-📘 LeetCode • 🐙 GitHub • 💼 LinkedIn • 🛂 Visa: H-1B (Transfer-Eligible — No Sponsorship Required)
+# ISHAN AGGARWAL  
+
+United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com) • +1 (857) 991-6379  
+📘 [LeetCode](https://leetcode.com/ishanaggarwal999) • 🐙 [GitHub](https://github.com/ishanaggarwal) • 💼 [LinkedIn](https://www.linkedin.com/in/ishanaggarwal1)
+
+</div>
 
 ---
 
