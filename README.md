@@ -76,7 +76,7 @@ Want the short version? Scales, performance, and intelligence — in that order.
 
 ### 🎓 **Education & Certifications**
 - **Northeastern University** — MS in Computer Science (Sep 2023 – Aug 2025)  
-- **Vellore Institute of Technology** — BTech in Information Technology (Jul 2018 – May 2022)  
+- **Vellore Institute of Technology** — BTech in Information Technology  
 - **Certifications:** AWS Cloud Practitioner · Microsoft AZ-900  
 
 ---
