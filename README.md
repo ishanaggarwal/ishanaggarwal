@@ -11,7 +11,7 @@ United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ishanaggarwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="36" height="36"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-120px-plus.png" alt="GitHub" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ishanaggarwal1/" target="_blank" rel="noopener noreferrer">
