@@ -2,7 +2,7 @@
 
 # ISHAN AGGARWAL  
 
-United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com) • +1 (857) 991-6379  
+United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com)
 
 <!-- Social Icons -->
 <p align="center">
