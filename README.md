@@ -48,7 +48,7 @@ Want the short version? Scales, performance, and intelligence — in that order.
 ---
 
 ### 💼 **Professional Experience (Highlights)**
-- **Software Engineer — Bank of America (Jun 2022 – Jul 2023)**  
+- **Software Engineer — Bank of America (Jun 2021 – Jul 2023)**  
   - Migrated legacy investment platform to cloud with Python, Docker, Terraform, and ECS → infra costs & deploy times down 25%.  
   - Built a FastAPI API gateway integrating 10+ microservices, handled 10K+ req/sec using Redis caching & autoscaling.  
   - Refactored trade reconciliation with async I/O and SQL tuning → 40% throughput improvement.  
