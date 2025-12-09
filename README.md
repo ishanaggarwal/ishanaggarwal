@@ -6,27 +6,17 @@ United States • [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com
 
 <!-- Social Icons -->
 <p align="center">
-  <!-- Portfolio -->
-  <a href="https://ishanaggarwal.github.io/ishanportfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="36" height="36"/>
+  <a href="https://leetcode.com/u/danielatlas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- LeetCode (links to LeetCode home; replace with your profile URL if desired) -->
-  <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="36" height="36"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
   <a href="https://github.com/ishanaggarwal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ishanaggarwal1/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="36" height="36"/>
   </a>
-
-  <!-- Add more icons below by duplicating the pattern and replacing the href and src -->
 </p>
 
 </div>
@@ -49,9 +39,9 @@ Want the short version? Scales, performance, and intelligence — in that order.
 ---
 
 ### 🧠 **Skills Snapshot**
-- **Programming & Frameworks:** Python · Java · C++ · TypeScript · Go (basic) · Swift (basic) · FastAPI · Django · Flask · Node.js · Express · React · Next.js · Angular · GraphQL · [...]
+- **Programming & Frameworks:** Python · Java · C++ · TypeScript · Go (basic) · Swift (basic) · FastAPI · Django · Flask · Node.js · Express · React · Next.js · Angular · GraphQL · HTML/CSS  
 - **AI / ML / LLMs:** GPT-4 · LangChain · BERT · RAG · PyTorch · Transformers · spaCy · FAISS · Tesseract OCR · ChromaDB · RLHF · Prompt Engineering · Agentic Automation  
-- **Cloud & DevOps:** AWS (EC2 · S3 · EKS · Lambda · RDS) · Azure · GCP · Docker · Kubernetes · Helm · Terraform · CI/CD (GitHub Actions · Jenkins) · Monitoring (Prometheus · Grafana[...]
+- **Cloud & DevOps:** AWS (EC2 · S3 · EKS · Lambda · RDS) · Azure · GCP · Docker · Kubernetes · Helm · Terraform · CI/CD (GitHub Actions · Jenkins) · Monitoring (Prometheus · Grafana)  
 - **Data Systems:** PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · Prisma ORM · Airflow · Pandas · NumPy · ETL/ELT · Tableau  
 - **Testing & Collaboration:** Pytest · Jest · JUnit · Git · Jira · Confluence · TDD · Agile · Code Review · Mentorship  
 
