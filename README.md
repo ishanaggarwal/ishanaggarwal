@@ -105,4 +105,5 @@ Want the short version? Scales, performance, and intelligence — in that order.
 ### 💬 **Let's Build**
 If you're working on something that needs reliable APIs, scalable infra, or an LLM-powered feature that actually helps users,  
 ping me → [ishanaggarwal999@gmail.com](mailto:ishanaggarwal999@gmail.com).  
+Portfolio: https://ishanaggarwal.github.io/ishanportfolio/
 I love shipping practical solutions that scale.
